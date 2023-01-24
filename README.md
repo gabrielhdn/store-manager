@@ -1,6 +1,6 @@
 # Store Manager
 
-Desenvolvido no módulo de back-end da [Trybe](https://www.betrybe.com/), o Store Manager é uma API Rest que funciona como sistema de gerenciamento de vendas. A integração com o banco de dados MySQL permite visualizar, criar, atualizar e deletar produtos. Feito em Node.js com arquitetura MSC (Model, Service e Controller).
+Desenvolvido no módulo de back-end da [Trybe](https://www.betrybe.com/), o Store Manager é uma API Rest que funciona como sistema de gerenciamento de vendas. A integração com o banco de dados MySQL permite visualizar, criar, atualizar e deletar produtos. Feito em Node.js com arquitetura MSC (Model, Service e Controller). As três camadas possuem testes unitários com cobertura de 100%.
 
 ## Tecnologias
 
@@ -10,6 +10,7 @@ Desenvolvido no módulo de back-end da [Trybe](https://www.betrybe.com/), o Stor
 - MySQL
 - mysql2
 - Docker
+- Mocha, Chai e Sinon
 
 ## Executando o projeto
 
